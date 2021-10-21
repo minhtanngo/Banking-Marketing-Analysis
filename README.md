@@ -36,3 +36,8 @@ pdays: number of days that passed by after the client was last contacted from a 
 previous: number of contacts performed before this campaign and for this client (numeric)
 
 poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
+
+## Project workflow
+
+![image](https://user-images.githubusercontent.com/74533550/138232029-e48dc9a5-2a9b-4a2a-9e99-9e8d7d5ec6ee.png)
+
