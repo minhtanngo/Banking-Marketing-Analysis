@@ -1,7 +1,18 @@
 # Banking-Marketing-Analysis
 This is Banking Marketing Analysis project for IBM Tech Demo Day
 
-What is term deposit? A Term deposit is a deposit that a bank or a financial institurion offers with a fixed rate (often better than just opening deposit account) in which your money will be returned back at a specific maturity time.
+## Objective
+
+In general, datasets which contain marketing data can be used for 2 different business goals:
+
+- Prediction of marketing campaign results for each client, as well as explanation of factors that influence campaign outcomes. This aids in determining how to make marketing campaigns more effective.
+- Identifying client categories based on data from customers who have signed up for a term deposit. This aids in the identification of a consumer profile that is more likely to purchase the product and the development of more focused marketing efforts.
+
+This dataset contains banking marketing campaign data and we can use it to optimize marketing campaigns to attract more customers to term deposit subscription. 
+
+## What is term deposit? 
+
+A Term deposit is a deposit that a bank or a financial institurion offers with a fixed rate (often better than just opening deposit account) in which your money will be returned back at a specific maturity time.
 
 ## Attribute descriptions
 
