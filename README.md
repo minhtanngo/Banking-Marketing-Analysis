@@ -15,7 +15,7 @@ This dataset contains banking marketing campaign data and we can use it to optim
 A Term deposit is a deposit that a bank or a financial institurion offers with a fixed rate (often better than just opening deposit account) in which your money will be returned back at a specific maturity time.
 
 ## Attribute descriptions
-
+```
 age: Customers' age (numeric)
 
 job: type of job (categorical: 'admin.','blue-collar','entrepreneur','housemaid','management','retired','self-employed','services','student','technician','unemployed','unknown')
@@ -47,6 +47,7 @@ pdays: number of days that passed by after the client was last contacted from a 
 previous: number of contacts performed before this campaign and for this client (numeric)
 
 poutcome: outcome of the previous marketing campaign (categorical: 'failure','nonexistent','success')
+```
 
 ## Project workflow
 
